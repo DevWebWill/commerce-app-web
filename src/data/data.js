@@ -34,7 +34,7 @@ import messenger from "../assets/messenger.svg";
 
 const heroapi = {
   title: "Play With Electric Nike",
-  subtitle: "App react",
+  subtitle: "App react ok",
   img: heroimg,
   btntext: "Explore Product",
   videos: [
